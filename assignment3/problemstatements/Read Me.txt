@@ -1,0 +1,11 @@
+Instructions for Students:
+
+Do not compile initially.
+Read the code carefully.
+Identify all Errors. (syntax, semantics,logical etc)
+Mention:
+. Line Number
+. Error
+. Correction
+These programs intentionally contains multiple syntax errors.
+Upload SS to GITHUB 
